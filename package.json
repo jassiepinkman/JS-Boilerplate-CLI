@@ -1,0 +1,23 @@
+{
+  "name": "js-boilerplate",
+  "version": "1.0.0",
+  "description": "js-boilerplate package will help you to create a js boilerplate file along with html and css. ",
+  "main": "index.js",
+  "bin": {
+    "js": "bash"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JS",
+    "CSS",
+    "HTML",
+    "Boilerplate"
+  ],
+  "author": "Jaskaran Singh",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
